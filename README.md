@@ -6,3 +6,8 @@ This template uses Unity’s built in rendering pipeline and contain no content 
 
 Package Name: com.unity.template.3dempty
 Package Version: 0.0.2
+
+# Preview
+![](/image/preview1.png)
+
+![](/image/preview2.png)
