@@ -1,13 +1,10 @@
-# upm-package-template-3DLegacy
-Project Template for 3D scenes not using a SRP and empty
-
-This template uses Unity’s built in rendering pipeline and contain no content by default. This is a good starting point for developers looking to create 3D projects.
-
-
-Package Name: com.unity.template.3dempty
-Package Version: 0.0.2
+# 3D-scene-demo
+a 3D scene made with unity.
 
 # Preview
 ![](/image/preview1.png)
 
 ![](/image/preview2.png)
+
+# Download
+Go to click [3D_game.tar.gz](https://github.com/Andrewpqc/binary-executable-file) on github,and click **View Raw** to download this game.
